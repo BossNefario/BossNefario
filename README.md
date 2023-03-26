@@ -12,9 +12,9 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bossnefario&count_private=true&show_icons=true&theme=cobalt)](https://github.com/BossNefario)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bossnefario&count_private=true&show_icons=true&theme=cobalt)](https://github.com/BossNefario) [<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=bossnefario&layout=compact&theme=cobalt' height ='195'>](https://github.com/BossNefario/curso_git)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bossnefario&layout=compact&theme=cobalt)](https://github.com/BossNefario/curso_git)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=BossNefario&bg_color=403c58&color=000000&line=000000&point=ff8800&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 # Redes Sociais
 (https://www.linkedin.com/in/brunopzalmeida)
