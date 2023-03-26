@@ -12,12 +12,12 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bossnefario&count_private=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bossnefario&count_private=true&show_icons=true&theme=cobalt)](https://github.com/BossNefario)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bossnefario&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bossnefario&repo=curso_git&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bossnefario&layout=compact&theme=cobalt)](https://github.com/BossNefario/curso_git)
 
 # Redes Sociais
 (https://www.linkedin.com/in/brunopzalmeida)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bossnefario&repo=curso_git&theme=cobalt)](https://github.com/BossNefario/curso_git)
 
