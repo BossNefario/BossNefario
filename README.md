@@ -4,7 +4,7 @@
 
 ✔	Inglês Avançado, Espanhol Intermediário e Mandarim Básico.
 
-✔	Formação em Engenharia de Produção.
+✔	Bacharel em Engenharia de Produção e MBA em Gerenciamento de Projetos.
 
 # Skills
 
