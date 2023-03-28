@@ -30,3 +30,6 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bossnefario&repo=curso_git&theme=cobalt)](https://github.com/BossNefario/curso_git)
 
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{BossNefario}/count.svg" /></p>
