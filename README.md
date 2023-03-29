@@ -2,8 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Olá,+seja+Bem-Vindo!;Me+chamo+Bruno+Almeida!;Hello,+You're+Welcome!;I'm+Bruno+Almeida!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
 </p>
 
-✔	18 anos de experiência em gestão de projetos e de departamentos com foco no cliente, no desenvolvimento das pessoas e no atingimento dos resultados.
-
 ✔	Inglês Avançado, Espanhol Intermediário e Mandarim Básico.
 
 ✔	Bacharel em Engenharia de Produção e MBA em Gerenciamento de Projetos.
