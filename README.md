@@ -24,7 +24,7 @@
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bossnefario&count_private=true&show_icons=true&theme=cobalt)](https://github.com/BossNefario) [<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=bossnefario&layout=compact&theme=cobalt' height ='195'>](https://github.com/BossNefario/curso_git)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bossnefario&count_private=true&show_icons=true&theme=cobalt)](https://github.com/BossNefario) [<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=bossnefario&layout=compact&theme=cobalt' height ='195'>](https://github.com/BossNefario/curso_git, https://github.com/BossNefario/projetos)
 
 ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=BossNefario&theme=cobalt)
 
