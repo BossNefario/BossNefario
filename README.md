@@ -33,7 +33,7 @@
 # Redes Sociais
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunopzalmeida)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bossnefario&repo=projetos&theme=cobalt)](https://github.com/BossNefario)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bossnefario&repo=projetos&theme=cobalt)](https://github.com/BossNefario/projetos)
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
